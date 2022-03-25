@@ -1,5 +1,6 @@
 Feature: Login page feature
 
+<!--added new line -->
   Scenario: Login page title
     Given user is on login page
     When user gets the title of the page
